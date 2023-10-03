@@ -16,5 +16,20 @@ export default StyleSheet.create({
         backgroundColor: 'turquoise',
         borderWidth: 1,
         padding: 5
+    },
+    numeric: {
+      rightButtonBackgroundColor: 'paleturquoise'
+    },
+    result: {
+      fontSize: 20,
+
+    },
+    input: {
+      borderWidth: 1,
+      borderColor: 'black',
+      backgroundColor: 'snow',
+      padding: 7,
+      marginRight: 250,
+      marginLeft: 10 
     }
   });

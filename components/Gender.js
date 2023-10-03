@@ -5,7 +5,7 @@ import Styles from '../styles/Styles.js'
 
 
 
-export default function App() {
+export default function Gender() {
 
 const genders = ['Male', 'Female'];
 
