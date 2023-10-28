@@ -21,8 +21,11 @@ export default StyleSheet.create({
       rightButtonBackgroundColor: 'paleturquoise'
     },
     result: {
-      fontSize: 20,
+      fontSize: 40,
 
+    },
+    h2: {
+      fontSize: 18,
     },
     input: {
       borderWidth: 1,
